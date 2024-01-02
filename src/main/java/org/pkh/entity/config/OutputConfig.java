@@ -1,4 +1,4 @@
 package org.pkh.entity.config;
 
-public class OutpuConfig {
+public class OutputConfig {
 }

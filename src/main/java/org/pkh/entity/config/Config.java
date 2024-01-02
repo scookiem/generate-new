@@ -25,5 +25,5 @@ public class Config {
     /**
      * 输出配置
      */
-    private OutpuConfig outpuConfig;
+    private OutputConfig outpuConfig;
 }
